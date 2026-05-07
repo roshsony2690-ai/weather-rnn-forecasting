@@ -70,7 +70,13 @@ The model demonstrates strong performance on the test set:
 • Forecast summary statistics     
 
 ### Result/Plots
-<img width="1556" height="686" alt="Screenshot 2026-05-07 200130" src="https://github.com/user-attachments/assets/01dbfe34-a8ed-432f-bd80-baeb06ddccc4" />
+<img width="1556" height="686" alt="Screenshot 2026-05-07 200130" src="https://github.com/user-attachments/assets/01dbfe34-a8ed-432f-bd80-baeb06ddccc4" /> 
+
 <img width="1482" height="608" alt="Screenshot 2026-05-07 200206" src="https://github.com/user-attachments/assets/90780bee-28de-4a2b-8efb-3919cb1bf402" />
+
 <img width="1458" height="685" alt="Screenshot 2026-05-07 200237" src="https://github.com/user-attachments/assets/33c46db0-11d9-46fb-bca1-927ac1cf5ddc" />
 
+<img width="885" height="878" alt="Screenshot 2026-05-07 200621" src="https://github.com/user-attachments/assets/e5c10c55-487f-4148-9f74-1e2967cf85ab" />
+
+<img width="1666" height="709" alt="Screenshot 2026-05-07 200306" src="https://github.com/user-attachments/assets/ff67c984-7182-444c-88c9-9bd81ce7a267" />
+ 
