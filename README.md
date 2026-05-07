@@ -61,10 +61,10 @@ The model demonstrates strong performance on the test set:
 ☑ Ensure Weather_History.csv is in the /content/ directory   
 ☑ Run all cells sequentially    
 ☑ The model will train and produce temperature forecasts for the next 7 days     
-
-## Output
-• Training/validation loss and MAE curves
-• Predicted vs actual temperature plots
-• Scatter plot correlation
-• Next 7 days temperature forecast with visualization
-• Forecast summary statistics
+  
+## Output      
+• Training/validation loss and MAE curves     
+• Predicted vs actual temperature plots     
+• Scatter plot correlation    
+• Next 7 days temperature forecast with visualization    
+• Forecast summary statistics     
