@@ -68,3 +68,9 @@ The model demonstrates strong performance on the test set:
 • Scatter plot correlation    
 • Next 7 days temperature forecast with visualization    
 • Forecast summary statistics     
+
+### Result/Plots
+<img width="1556" height="686" alt="Screenshot 2026-05-07 200130" src="https://github.com/user-attachments/assets/01dbfe34-a8ed-432f-bd80-baeb06ddccc4" />
+<img width="1482" height="608" alt="Screenshot 2026-05-07 200206" src="https://github.com/user-attachments/assets/90780bee-28de-4a2b-8efb-3919cb1bf402" />
+<img width="1458" height="685" alt="Screenshot 2026-05-07 200237" src="https://github.com/user-attachments/assets/33c46db0-11d9-46fb-bca1-927ac1cf5ddc" />
+
