@@ -1,7 +1,8 @@
 # RNN for Weather Forecasting
 
 ## Overview
-This notebook implements a Recurrent Neural Network (RNN) model to predict the next day's temperature based on the past week's weather data. The model uses historical weather information to forecast future temperatures.
+This notebook implements a Recurrent Neural Network (RNN) model to predict the next day's temperature based on the past week's weather data. The model uses historical weather information to forecast future temperatures.  
+(https://colab.research.google.com/drive/157df0u5HT12BZiMnQzdxRbr_fc7RvFyz?usp=sharing)  
 
 ## Dataset
 The model uses a weather history dataset (Weather_History.csv) containing the following key features:   
