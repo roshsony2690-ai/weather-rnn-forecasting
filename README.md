@@ -4,12 +4,12 @@
 This notebook implements a Recurrent Neural Network (RNN) model to predict the next day's temperature based on the past week's weather data. The model uses historical weather information to forecast future temperatures.
 
 ## Dataset
-The model uses a weather history dataset (Weather_History.csv) containing the following key features: 
-• Temperature (C) - Target variable 
-• Humidity - Input feature 
-• Wind Speed (km/h) - Input feature 
-• Formatted Date - Timestamp 
-• Additional weather metrics (apparent temperature, pressure, visibility, etc.) 
+The model uses a weather history dataset (Weather_History.csv) containing the following key features:   
+• Temperature (C) - Target variable   
+• Humidity - Input feature   
+• Wind Speed (km/h) - Input feature   
+• Formatted Date - Timestamp   
+• Additional weather metrics (apparent temperature, pressure, visibility, etc.)    
 
 ## Project Structure 
 
